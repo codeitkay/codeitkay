@@ -6,7 +6,7 @@ I have been on my coding journey for 6 months and I've enjoyed it so much! Ever 
 - 🔭 I’m currently working on ... Creating a personal webpage.
 - 🌱 I’m currently learning ... HTML, CSS, and Javascript.
 - 😄 Pronouns: ... She/Her
-- 🎯 Interests: Gaming, Illustration, Hiking, 3D Design
+- 🎯 Interests: ...Gaming, Illustration, Hiking, 3D Design
 - ⚡ Fun fact: ... I really enjoy learning! I'm currently working on teaching myself 3D modeling in Blender.
 
 Thank you very much for visiting, see you again soon!
