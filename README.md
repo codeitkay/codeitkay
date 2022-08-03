@@ -3,10 +3,10 @@
 <h1>Hello, my name is Kayla and it's nice to meet you!</h1>
 I have been on my coding journey for about a year and I've enjoyed it so much! Ever since I created my first 'Hello World.html' I have found myself chasing that adrenaline rush and sense of accomplishment.  
 
-- 🔭 I’m currently working on ... Creating three email templates for my portfolio
-- 🌱 I’m currently learning ... Sass
+- 🔭 I’m currently working on ... creating a Portfolio website
+- 🌱 I’m currently learning ... improving my HTML, CSS, and Javascript skills
 - 😄 Pronouns: ... She/Her
 - 🎯 Interests: ...Gaming, Illustration, Hiking, 3D Design
-- ⚡ Fun fact: ... I really enjoy learning! I'm currently working on teaching myself 3D modeling in Blender. It's definitely been an experience haha!
+- ⚡ Fun fact: ... I really enjoy learning! I'm currently teaching myself 3D modeling in Blender. It's definitely been an experience haha!
 
 Thank you very much for visiting, see you again soon!
